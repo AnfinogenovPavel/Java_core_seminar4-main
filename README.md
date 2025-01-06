@@ -1,6 +1,6 @@
 ﻿# Java Core (семинары)
 
-
+![Java Core](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/blob/main/src/main/resources/Java_core.jpg)
 
 ## Урок 4. Обработка исключений
 
@@ -29,11 +29,11 @@
 
 После обновления Maven должно получиться так:
 
-![LombokXML](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/LombokXML.png)
+![Lombok XML](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/LombokXML.png)
 
 Далее добавляем четвертое поле gender, а так же пишем метод проверки муж/жен:
 
-![Gender](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/AddedGender.png)
+![Added Gender](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/AddedGender.png)
 
 *+*
 
@@ -68,7 +68,7 @@ public class Customer {
 
 А так же не забываем заполнить вновь добавленное поле в Main:
 
-![Gender]((https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/AddedGender2.png))
+![Added Gender 2](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/AddedGender2.png)
 
 ---
 
@@ -81,12 +81,12 @@ public class Customer {
 
 В классе Main добавляем нумерованный список с праздниками:
 
-![AddedHoliday](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/AddedHoliday.png)
+![Added Holiday](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/AddedHoliday.png)
 
 Далее добавляем определение текущего праздника и поздравление сотрудников в зависимости от текущего праздника. 
 А после пишем метод поздравления покупателей, в зависимости от пола и праздника:
 
-![CongratulateCustomers](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/CongratulateCustomers.png)
+![Congratulate Customers](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/CongratulateCustomers.png)
 
 <details>
 
@@ -118,7 +118,7 @@ public class Customer {
 
 Ниже прописываем метод, который будет возвращать текущий праздник или его отсутствие:
 
-![GetCurrentDay](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/GetCurrentDay.png)
+![Get Current Day](https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/GetCurrentDay.png)
 
 <details>
 
