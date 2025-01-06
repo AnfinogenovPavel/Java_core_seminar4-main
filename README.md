@@ -1,6 +1,7 @@
 ﻿# Java Core (семинары)
 
 
+
 ## Урок 4. Обработка исключений
 
 
@@ -67,7 +68,7 @@ public class Customer {
 
 А так же не забываем заполнить вновь добавленное поле в Main:
 
-![Gender](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar4/main/src/main/resources/AddedGender2.png)
+![Gender]((https://github.com/AnfinogenovPavel/Java_core_seminar4-main/blob/main/src/main/resources/AddedGender2.png))
 
 ---
 
